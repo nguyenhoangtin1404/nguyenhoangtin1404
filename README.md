@@ -10,7 +10,7 @@ performance optimization, and complex business workflows**.
 
 📍 Đắk Lắk, Việt Nam  
 📧 tinnh.pyn@gmail.com  
-💻 GitHub: https://github.com/nguyenhoangtin1404  
+💻 Website: https://www.nguyenhoangtin.com
 
 > **Note:** Part of my development work is on **GitLab** for **private / company projects**,  
 > so not all activity is visible on GitHub.
