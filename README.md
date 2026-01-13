@@ -1,55 +1,77 @@
 # Nguyễn Hoàng Tín
 
-Backend / Fullstack Developer với **8+ năm kinh nghiệm** phát triển **hệ thống quy mô lớn cấp tỉnh** tại VNPT.  
-Chuyên **Java Spring Boot & .NET**, mạnh về **backend, microservices, tối ưu hiệu năng và hệ thống nghiệp vụ phức tạp**.
+**Backend / Fullstack Developer** – **8+ years of experience**
+
+Backend-focused developer with **8+ years of experience** building and operating  
+**large-scale provincial-level systems** at VNPT.
+
+Strong in **Java Spring Boot & .NET**, focusing on **backend development, microservices,  
+performance optimization, and complex business workflows**.
 
 📍 Đắk Lắk, Việt Nam  
 📧 tinnh.pyn@gmail.com  
 💻 GitHub: https://github.com/nguyenhoangtin1404  
 
+> **Note:** Part of my development work is on **GitLab** for **private / company projects**,  
+> so not all activity is visible on GitHub.
+
 ---
 
-## Tech Focus
-**Backend**
-- Java, Spring Boot, Microservices, RESTful API  
-- .NET, ASP.NET MVC, C#  
+## 🔧 Tech Focus
 
-**Frontend**
-- Angular, HTML/CSS/JS, Bootstrap  
+### Backend
+- Java, **Spring Boot**, Microservices, RESTful API  
+- .NET, **ASP.NET MVC**, C#
 
-**Database**
+### Frontend
+- Angular, HTML/CSS/JavaScript, Bootstrap  
+
+### Database
 - Oracle, MongoDB  
-- SQL optimization, reporting  
+- SQL optimization, reporting
 
-**Tools**
-- Git, Docker, Jira, Scrum
-
----
-
-## Experience
-**VNPT Phú Yên (2017 – Present)** – Software Engineer  
-- Core backend developer cho các hệ thống lớn:  
-  **Cổng Dịch vụ công, iOffice, Hóa đơn điện tử, Phòng họp không giấy**
-- Tối ưu hiệu năng, xử lý nghiệp vụ, hỗ trợ vận hành thực tế
-- Ứng dụng AI vào quy trình phát triển → giảm **20–30% thời gian coding**
-- Nhiều năm đạt **Chiến sĩ thi đua**
+### Tools
+- Git, Docker  
+- Jira, Scrum / Agile
 
 ---
 
-## Highlight Projects
-**Public Administrative System (2025–Now)**  
+## 💼 Experience
+
+### **VNPT Phú Yên (2017 – Present)**  
+**Software Engineer**
+
+- Core backend developer for large-scale enterprise systems:
+  - Public Administrative Portal
+  - VNPT iOffice
+  - Electronic Invoice
+  - eCabinet (Paperless Meeting System)
+- Backend design, development, performance tuning, and production support
+- Applied AI-assisted development → reduced **20–30% coding time**
+- Multiple years awarded **Outstanding Employee / Emulation Award**
+
+---
+
+## 🚀 Highlight Projects
+
+### **Public Administrative System (2025 – Present)**  
 *Java Spring Boot, Microservices, MongoDB, Angular*  
-→ Giảm thời gian báo cáo **3 phút → 60s**, triển khai thực tế tại bộ phận Một cửa
+- Reduced reporting time from **3 minutes to ~60 seconds**
+- Deployed and used in real-world government operations
 
-**VNPT eCabinet (2021–2025)**  
+### **VNPT eCabinet (2021 – 2025)**  
 *.NET, C#, Oracle, IoT*  
-→ Trưởng nhóm triển khai, vận hành **ổn định 5 năm**, không sự cố CNTT
+- Technical lead for deployment and long-term operation
+- Stable operation for **5 consecutive years**
 
-**VNPT iOffice (2017–2024)**  
+### **VNPT iOffice (2017 – 2024)**  
 *.NET, Oracle*  
-→ Phục vụ **10.000+ người dùng**, xử lý 20–30 ticket/tháng theo SLA
+- Served **10,000+ users**
+- Handled **20–30 tickets/month** under SLA
 
 ---
 
-## Goal
-Backend Developer (Java / .NET) cho **hệ thống lớn**, nghiệp vụ phức tạp, môi trường kỹ thuật nghiêm túc.
+## 🎯 Goal
+Backend Developer (**Java / .NET**)  
+Focus on **large-scale systems**, complex business domains, and  
+**engineering-driven environments**.
