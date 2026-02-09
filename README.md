@@ -1,7 +1,8 @@
 # Nguyễn Hoàng Tín
 
-**Senior Backend / Fullstack Developer**  
-`Java` · `Spring Boot` · `.NET` · `Microservices` · `Enterprise Systems`
+![Role](https://img.shields.io/badge/Role-Senior_Backend_%2F_Fullstack_Developer-blue)
+![Experience](https://img.shields.io/badge/Experience-8%2B_years-success)
+![Focus](https://img.shields.io/badge/Focus-Enterprise_Systems-important)
 
 Backend-focused developer with **8+ years of experience** building, operating, and optimizing  
 **large-scale provincial-level systems** at VNPT.
@@ -11,133 +12,95 @@ performance optimization, and complex business workflows** in real production en
 
 📍 Đắk Lắk, Việt Nam  
 📧 tinnh.pyn@gmail.com  
-🌐 Website: https://www.nguyenhoangtin.com  
+🌐 https://www.nguyenhoangtin.com  
 
-> **Note:** Part of my development work is on **GitLab** for **private / company projects**,  
-> so not all activity is visible on GitHub.
 
----
 
-## 📊 GitHub Stats
 
-> *High-level activity snapshot (clean & minimal)*
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguyenhoangtin1404&show_icons=true&hide=stars&count_private=true&theme=default)
-
-> GitHub is mainly used for **personal projects, demos, and public showcases**.  
-> Most production systems are developed and maintained in **private GitLab repositories**.
-
----
-
-## 🧠 Professional Summary
-
-- **8+ years** developing and operating **government & enterprise systems**
-- Strong experience with **business-logic–heavy applications**
-- Hands-on in **system optimization, long-term maintenance, and production support**
-- Familiar with **SLA-driven environments**
-- Applied **AI-assisted development** to reduce **20–30% coding time**
+> **Note:** Part of my development work is on ![GitLab](https://img.shields.io/badge/GitLab-lightgrey) for **private / company projects**,  
+> so not all activity is visible on ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github).
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Backend
-`Java` · `Spring Boot` · `Microservices` · `REST API`  
-`.NET` · `ASP.NET MVC` · `C#`
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-blueviolet)
+![REST](https://img.shields.io/badge/API-RESTful-blue)
+![DotNet](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
 
 ### Frontend
-`Angular` · `HTML` · `CSS` · `JavaScript` · `Bootstrap`
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
 ### Database
-`Oracle` · `MongoDB`  
-SQL tuning · Reporting · Data processing
+![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Mysql](https://img.shields.io/badge/Mysql-orange)
 
 ### DevOps & Workflow
-`Git` · `Docker`  
-`Jira` · `Scrum` · `Agile`
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-success)
 
 ---
 
 ## 💼 Professional Experience
 
-### **VNPT Phú Yên**  
-**Software Engineer / Backend Developer**  
-*(2017 – Present)*
+### **VNPT Phú Yên**
+![Period](https://img.shields.io/badge/Experience-2017--Present-blue)
 
-- Core backend developer for multiple **large-scale enterprise systems**:
-  - Public Administrative Portal
-  - VNPT iOffice
-  - Electronic Invoice System
-  - eCabinet (Paperless Meeting System)
-- Participated in **system design, development, performance tuning, and production support**
+- Core backend developer for **large-scale enterprise systems**
+- Public Administrative Portal · VNPT iOffice · Electronic Invoice · eCabinet
+- Involved in **system design, development, performance tuning, and production support**
 - Supported real-world operations with **thousands of users**
-- Applied AI-assisted tools to reduce **20–30% development time**
 - Multiple years awarded **Outstanding Employee / Emulation Award**
-
----
-
-## 📌 Pinned Repositories & Architecture Overview
-
-### 🔹 **Diecast360** *(Private)*  
-**Full-stack inventory & social-selling platform**
-
-- Manage diecast collections with **360° image spinner**
-- Public catalog and social-selling tools optimized for **Facebook**
-- Targeted for collectors and small online sellers
-
-**Architecture (high-level):**
-- Frontend: SPA, component-based UI
-- Backend: RESTful API, domain-oriented design
-- Media: 360° image processing & rendering
-- Deployment: Containerized, scalable
-
-> *Private project used to experiment with full-stack architecture and performance.*
-
----
-
-### 🔹 **GioiThieuBanThan** *(Public)*  
-✨ **Minimalist personal portfolio website**
-
-**Tech:** Astro · Full-page scrolling
-
-- Minimalist design focused on content
-- Smooth full-page scrolling experience
-- Optimized for desktop and mobile
-
-**Architecture:**
-- Static-first (Astro)
-- Component-based layout
-- Fast build, SEO-friendly
-
----
-
-### 🔹 **DClass** *(Public)*  
-🎓 **Lightweight classroom management system**
-
-- Track student activities, reward points, and achievements
-- Designed for **real classroom usage** in primary education
-- Simple, transparent point-based system
-
-**Architecture:**
-- Business-logic driven design
-- Rule-based scoring and rewards
-- Simple UI, easy for teachers to operate
 
 ---
 
 ## 🚀 Selected Projects
 
-| Project | Visibility | Focus |
-|------|---------|------|
-| **Diecast360** | Private | Full-stack · Inventory · 360° Media |
-| **GioiThieuBanThan** | Public | Portfolio · UI/UX · Astro |
-| **DClass** | Public | Business Logic · Education |
+### 🔹 [Diecast360](https://github.com/nguyenhoangtin1404/Diecast360)
+![Private](https://img.shields.io/badge/Visibility-Private-lightgrey)
+![AI](https://img.shields.io/badge/AI-Social--Selling-purple)
+![360](https://img.shields.io/badge/Media-360%C2%B0_Image-orange)
+
+Full-stack web application for managing diecast inventory with a **360° image spinner**,  
+public catalog, and **social-selling tools optimized for Facebook**.
+
+---
+
+### 🔹 [GioiThieuBanThan](https://github.com/nguyenhoangtin1404/GioiThieuBanThan)
+![Public](https://img.shields.io/badge/Visibility-Public-brightgreen)
+![Astro](https://img.shields.io/badge/Framework-Astro-black)
+![UI](https://img.shields.io/badge/UI-Full--page_Scrolling-blue)
+![Design](https://img.shields.io/badge/Design-Minimalist-lightgrey)
+
+Minimalist personal portfolio website built with **Astro**,  
+featuring smooth **full-page scrolling** and clean layout.
+
+---
+
+### 🔹 [DClass](https://github.com/nguyenhoangtin1404/DClass)
+![Public](https://img.shields.io/badge/Visibility-Public-brightgreen)
+![Education](https://img.shields.io/badge/Domain-Education-blue)
+![Logic](https://img.shields.io/badge/Focus-Business_Logic-orange)
+![Rewards](https://img.shields.io/badge/Feature-Reward_System-purple)
+
+Lightweight classroom management application that helps teachers  
+track student activities, reward points, and achievements in **real classroom use**.
 
 ---
 
 ## 🎯 Career Goal
 
-**Backend Developer (Java / .NET)**  
 Focused on **large-scale systems**, complex business domains,  
 and **engineering-driven, long-term products**.
 
