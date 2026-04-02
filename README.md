@@ -1,4 +1,4 @@
-# Nguyễn Hoàng Tín
+# Tin Nguyen
 
 ![Role](https://img.shields.io/badge/Role-Senior_Backend_%2F_Fullstack_Developer-blue)
 ![Experience](https://img.shields.io/badge/Experience-8%2B_years-success)
