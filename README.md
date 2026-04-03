@@ -10,7 +10,7 @@ Backend-focused developer with **8+ years of experience** building, operating, a
 Strong in **Java Spring Boot & .NET**, specializing in **backend architecture, microservices,  
 performance optimization, and complex business workflows** in real production environments.
 
-📍 Đắk Lắk, Việt Nam  
+📍 Dak Lak, Viet Nam  
 📧 tinnh.pyn@gmail.com  
 🌐 https://www.nguyenhoangtin.com  
 
@@ -54,7 +54,7 @@ performance optimization, and complex business workflows** in real production en
 
 ## 💼 Professional Experience
 
-### **VNPT Phú Yên**
+### **Vietnam Posts and Telecommunications Group**
 ![Period](https://img.shields.io/badge/Experience-2017--Present-blue)
 
 - Core backend developer for **large-scale enterprise systems**
