@@ -1,10 +1,10 @@
 # Tin Nguyen
 
 ![Role](https://img.shields.io/badge/Role-Senior_Backend_%2F_Fullstack_Developer-blue)
-![Experience](https://img.shields.io/badge/Experience-8%2B_years-success)
+![Experience](https://img.shields.io/badge/Experience-9%2B_years-success)
 ![Focus](https://img.shields.io/badge/Focus-Enterprise_Systems-important)
 
-Backend-focused developer with **8+ years of experience** building, operating, and optimizing  
+Backend-focused developer with **9+ years of experience** building, operating, and optimizing  
 **large-scale provincial-level systems** at VNPT.
 
 Strong in **Java Spring Boot & .NET**, specializing in **backend architecture, microservices,  
