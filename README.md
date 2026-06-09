@@ -68,7 +68,7 @@ performance optimization, and complex business workflows** in real production en
 ## 🚀 Selected Projects
 
 ### 🔹 [Diecast360](https://github.com/nguyenhoangtin1404/Diecast360)
-![Private](https://img.shields.io/badge/Visibility-Private-lightgrey)
+![Public](https://img.shields.io/badge/Visibility-Public-brightgreen)
 ![AI](https://img.shields.io/badge/AI-Social--Selling-purple)
 ![360](https://img.shields.io/badge/Media-360%C2%B0_Image-orange)
 
